@@ -1,4 +1,4 @@
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Mordekhai%20Gerin&description=Hello%F0%9F%91%8B,%20i%27m%20an%20enthusiastic%20person%20who%20is%20skilled%20in%27developing%20software%20and%20backend%20systems.%20%F0%9F%8E%AF&image=https://github.com/gerinmordekhai.png&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=gerinmordekhaii&github=gerinmordekhai&pattern=topography&colorPattern=%238080ff&opacity=0.2&fontColor=%23eff4f6)
+![Mordekhai Gerin's card name](https://cardivo.vercel.app/api?name=Mordekhai%20Gerin&description=Hello%F0%9F%91%8B,%20i%27m%20an%20enthusiastic%20person%20who%20is%20skilled%20in%27developing%20software%20and%20backend%20systems.%20%F0%9F%8E%AF&image=https://github.com/gerinmordekhai.png&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=gerinmordekhaii&github=gerinmordekhai&pattern=topography&colorPattern=%238080ff&opacity=0.2&fontColor=%23eff4f6)
 
 <div align="center">
     Currently, I am specializing in fullstack developer and looking for an internship to developing and expand my skillset.
