@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Mordekhai.
 
-I am passionate about code, also interest in learning new skills and technologies. I like to learn from people who are smarter than me so that can motivates me in learning and develop more. I've enjoyed PHP and make it the main language in creating a project.
+I am passionate about code, also interest in learning new skills and technologies. I like to learn from people who are smarter than me so that can motivates me in learning and develop more. I've enjoyed JavaScript and make it the main language in creating a project.
 
 - 🎓 I’m currently studying at Universitas Pembangunan Nasional Veteran Jawa Timur, majoring in informatics
 - 🌱 I’m currently learning about cloud technology for back-end apps in <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy<a/> 
