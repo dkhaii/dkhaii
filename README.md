@@ -10,32 +10,30 @@
   </samp>
 </p>
 
-<details align="center" id="details">
+<p align="center">
+  <p><b><samp>Language and Tools I Use</samp></b></p></b></b>
   <p align="center">
-    <p><b><samp>Language and Tools I Use</samp></b></p></b></b>
-    <p align="center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    </p>
-    <p id="med"><b><samp>My Social Media</samp></b></p>
-    <p align="center">
-    <a href="https://www.instagram.com/gerinmordekhaii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/mordekhaigerin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <br>
-    <a href="https://github.com/dkhaii">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkhaii&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"/>
-      <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dkhaii&layout=compact&langs_count=8&theme=algolia"/> -->
-    </a>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
-</details>
+  <p id="med"><b><samp>My Social Media</samp></b></p>
+  <p align="center">
+  <a href="https://www.instagram.com/gerinmordekhaii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mordekhaigerin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <br>
+  <a href="https://github.com/dkhaii">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkhaii&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"/>
+    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dkhaii&layout=compact&langs_count=8&theme=algolia"/> -->
+  </a>
+</p>
+
 <br>
 <samp>
   <p align="center">
-    ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/dkhaii/dekhaii">dkhaii</a>
+    ════ ⋆★⋆ ════
   </p>
 </samp>
