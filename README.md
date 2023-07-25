@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://giphy.com/embed/l378B1B0BqDHJPmJG" width="480" height="156" frameBorder="0" class="giphy-embed"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJlNTd5M3VxdzA0MnoyeDJza2RsNGdkaGl6NzJjbTRmOHVmbWg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l378B1B0BqDHJPmJG/giphy.gif" width="480" height="156" frameBorder="0" class="giphy-embed"/>
 </p>
 
-<h3 align="center"><samp>• Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Mordekhai Gerine Lumangkun</a> •</b></samp></h3>
+<h3 align="center"><samp>• Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank">Mordekhai Gerine Lumangkun</a> •</b></samp></h3>
 
 <p align="center"><br>
   <samp>
