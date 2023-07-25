@@ -20,7 +20,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
-  <a href="https://github.com/dkhaii">
+  <a align="center" href="https://github.com/dkhaii">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkhaii&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"/>
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dkhaii&layout=compact&langs_count=8&theme=algolia"/> -->
   </a>
