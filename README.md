@@ -6,7 +6,7 @@
 
 <p align="center"><br>
   <samp>
-    「 Backend Developer and DevOps Enthusiast @ 🎓 <b>Universitas Pembangunan Nasional Veteran Jawa Timur</b> 」<br>
+    「 Fullstack Developer @ 🎓 <b>Universitas Pembangunan Nasional Veteran Jawa Timur</b> 」<br>
   </samp>
 </p>
 <br>
@@ -24,7 +24,7 @@
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dkhaii&layout=compact&langs_count=8&theme=algolia"/> -->
   </a>
   </p>
-  <p align="center" id="med"><b><samp>My Social Media</samp></b></p>
+  <p align="center" id="med"><b><samp>Social Media</samp></b></p>
   <p align="center">
   <a href="https://www.instagram.com/gerinmordekhaii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mordekhaigerin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
